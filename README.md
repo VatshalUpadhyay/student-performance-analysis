@@ -73,8 +73,8 @@ Key columns:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone <https://github.com/VatshalUpadhyay/student-performance-analysis>
+cd <student-performance-analysis>
 ```
 
 2. Install required libraries:
